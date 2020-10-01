@@ -1,3 +1,4 @@
+print("welcome to our program")
 a = 1
 print(str(a) + "= a") #does't throw an error but a+"=a" will throw an error
 print(a,"=a")#does't throw an error
